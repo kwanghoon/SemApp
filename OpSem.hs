@@ -14,6 +14,7 @@ semNS (SSeq s1 s2) = s''                          --  <S1;S2,s> -> s''
     
 {- HOMEWORK -}    
     
-{- if True then 1 else 2 -}
+{- if True then 1 else 2 
+-}
     
 
